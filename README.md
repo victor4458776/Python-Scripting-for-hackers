@@ -12,16 +12,16 @@ My philosophy is made simple complicate things such access points to the differe
 #SCRIPTING-FRAGMENTS
 1.Python Shell
 
-2.Python parsers
+a.Python parsers
 
 3. Python tricks in the shell
 
-4.Data manipulation
+b.Data manipulation
 
 5. Files in the shell
 
-6. Curl with HTTPS protocol
+c. Curl with HTTPS protocol
 
 6.1 HTTPLIB3
 
-7. Rubyfu scripting (further)
+Rubyfu scripting (further)
