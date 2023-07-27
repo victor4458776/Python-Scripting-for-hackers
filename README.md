@@ -18,4 +18,4 @@ My philosophy is made simple complicate things such access points to the differe
 -Curl with HTTPS protocol
 -HTTPLIB3
 
--Rubyfu scripting (further)
+-Rubyfu scripting "further"
