@@ -10,18 +10,12 @@ Is important to realize that the solid fundamentals are based on the shell scrip
 My philosophy is made simple complicate things such access points to the different servers and using curl or postman to learn APIs in a more simple way and point accessing. But this time the important thing for working with scripts is a basic knowledge of crypto-hash stuff that you can reach in many degree mathematical courses and other TERMUX repositories. I encourage you to learn cryptography and hashing with TERMUX, which is a terminal for ANDROID. Is advantageous for cryptography because hackers in the day-to-day internet flows they write handy automation scripts for crypto hashes and the python shell materials.
 
 #SCRIPTING-FRAGMENTS
-1.Python Shell
+-Python Shell
+-Python parsers
+-Python tricks in the shell
+-Data manipulation
+-Files in the shell
+-Curl with HTTPS protocol
+-HTTPLIB3
 
-a.Python parsers
-
-3. Python tricks in the shell
-
-b.Data manipulation
-
-5. Files in the shell
-
-c. Curl with HTTPS protocol
-
-6.1 HTTPLIB3
-
-Rubyfu scripting (further)
+-Rubyfu scripting (further)
