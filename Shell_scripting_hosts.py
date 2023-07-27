@@ -39,4 +39,10 @@ Local                    |Distance                 | status              |Proces
 ...        host = ""
 ...    s = c.status
 ...    p = proc_names.get(c.pid, "")
+==============================================================================================
+#RESULTS
+>>> print(fmt)
+{:25s}|{:25s}| {:20s}|{:15s}|{:s}
+>>> print(fmt.format)
+<built-in method format of str object at 0x7f856b58f390>
 
